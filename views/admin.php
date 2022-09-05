@@ -15,7 +15,7 @@ else {
     $email = $_SESSION['email'];
     $active = $_SESSION['active'];
     $address = $_SESSION['address'];
-    $phone = $_SESSION['phone'];
+    $phone = $_SESSION['phone'];     
 }?>
 <!DOCTYPE html>
 <html lang="en">
